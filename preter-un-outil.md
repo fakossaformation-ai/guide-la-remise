@@ -11,5 +11,6 @@ Les adhérents peuvent emprunter un outil pour une semaine au plus.
 - Perceuse-visseuse
 - Scie sauteuse
 - Ponceuse orbitale
+- Ponceuse à bande
 - Niveau laser
 - Escabeau 5 marches

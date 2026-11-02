@@ -13,4 +13,4 @@
 
 ## Le téléphone de la permanence
 
-Le portable rouge, sur le comptoir : 07 00 00 00 10. C'est le numéro à donner aux visiteurs.
+Le portable rouge, sur le comptoir : 07 00 00 00 30. C'est le numéro à donner aux visiteurs.
