@@ -8,6 +8,7 @@ La Remise est un tiers-lieu associatif installé dans un ancien entrepôt : un a
 - [Fermer le local](fermer-le-local.md)
 - [Accueillir le public](accueillir.md)
 - [Prêter un outil](preter-un-outil.md)
+- [Ponceuse à bande](ponceuse-a-bande.md)
 - [Louer la salle](louer-la-salle.md)
 - [Tarifs](tarifs.md)
 - [En cas de problème](en-cas-de-probleme.md)
